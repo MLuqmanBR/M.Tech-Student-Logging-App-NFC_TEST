@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_btech"
+            android:onClick=""
+            android:title="B.Tech" />
+        <item
+            android:id="@+id/nav_be"
+            android:onClick=""
+            android:title="BE" />
+        <item
+            android:id="@+id/nav_mtech"
+            android:onClick=""
+            android:title="M.Tech" />
+        <item
+            android:id="@+id/nav_mba"
+            android:onClick=""
+            android:title="ME" />
+        <item
+            android:id="@+id/nav_mca"
+            android:onClick=""
+            android:title="MCA" />
+    </group>
+</menu>

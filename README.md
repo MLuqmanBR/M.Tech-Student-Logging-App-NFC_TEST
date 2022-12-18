@@ -1,10 +1,10 @@
 # NFC_TEST
 Simple NFC based attendance management System
 
-#Installation
+# Installation
 Comming Soon...
 
-#Licenses
+# Licenses
 Royalty Free
 feel free to use our apk
 do give a star
